@@ -1,4 +1,4 @@
-from conans import ConanFile, CMake
+from conanfile import ConanFile, CMake
 
 
 class HelloConan(ConanFile):
